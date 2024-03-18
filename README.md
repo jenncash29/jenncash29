@@ -5,6 +5,7 @@ ________________________________________________________________________________
 About Me:
 
 •	Data analyst with 15 years of real estate / mortgage experience
+
 •	Visualizing data is a passion of mine
 •	Team player with a can-do attitude
 •	Closed on over 800 residential mortgage loans with an approximate value of $250M throughout career as a mortgage loan officer
