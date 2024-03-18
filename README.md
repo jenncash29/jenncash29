@@ -7,7 +7,7 @@ About Me:
 •	Visualizing data is a passion of mine
 •	Team player with a can-do attitude
 •	Closed on over 800 residential mortgage loans with an approximate value of $250M throughout career as a mortgage loan officer
-•	When I am not analyzing data or building dashboards, you can find me and my dogs hiking a trail
+•	When I am not analyzing data or building dashboards, you can find my dogs and I hiking a trail
 
 ____________________________________________________________________________________
 Technologies and Tools (always eager to learn and expand):
