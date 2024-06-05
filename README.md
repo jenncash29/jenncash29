@@ -1,5 +1,7 @@
 ### Hello, World! 👋
 #### I'm Jenn, a data analyst with a real estate and mortgage background.  My career as a Mortgage Loan Officer equipped me with a deep understanding of financial markets, credit risk assessment, and customer service. Now, I'm channeling that expertise into the field of data analysis.
+
+#### Currently working on building projects for this portfolio - ETA for completion 7/31/24.
 ____________________________________________________________________________________
 ### About Me:
 - Data analyst with 15 years of real estate / mortgage experience 
