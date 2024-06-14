@@ -1,13 +1,13 @@
-## Hello, World! 👋
-### I'm Jenn, a data analyst with a real estate and mortgage background.  My career as a Mortgage Loan Officer equipped me with a deep understanding of financial markets, credit risk assessment, and customer service. Now, I'm channeling that expertise into the field of data analysis.
-
+### Hello, World! 👋
+I'm Jenn, a data analyst with a real estate and mortgage background.  My career as a Mortgage Loan Officer equipped me with a deep understanding of financial markets, credit risk assessment, and customer service. Now, I'm channeling that expertise into the field of data analysis.
+____________________________________________________________________________________
 #### Currently working on building projects for this portfolio - ETA for completion 7/31/24.
 
-## View My Projects:
+### View My Projects:
 
-## [Elist Electronics Store Project](https://github.com/jenncash29/Elist-Electronics-Store-Project/tree/main)
+### [Elist Electronics Store Project](https://github.com/jenncash29/Elist-Electronics-Store-Project/tree/main)
 ____________________________________________________________________________________
-## About Me:
+### About Me:
 - Data analyst with 15 years of real estate / mortgage experience 
 - Visualizing data is a passion of mine 
 - Team player with a can-do attitude 
@@ -15,7 +15,7 @@ ________________________________________________________________________________
 - When I am not analyzing data or building dashboards, you can find my dogs and I hiking a trail
 
 ____________________________________________________________________________________
-## Technologies and Tools (always eager to learn and expand):
+### Technologies and Tools (always eager to learn and expand):
 📊TABLEAU / 👩‍💻SQL / 📈EXCEL / 📫OUTLOOK / 📄WORD / 🎞️POWERPOINT
 ____________________________________________________________________________________
 ### Let's Connect:
