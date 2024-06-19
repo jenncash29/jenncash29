@@ -1,5 +1,5 @@
 ### Hello, World! 👋
-I'm Jenn, a data analyst with a real estate and mortgage background.  My career as a Mortgage Loan Officer equipped me with a deep understanding of financial markets, credit risk assessment, and customer service. Now, I'm channeling that expertise into the field of data analysis.
+I'm Jennifer, a data analyst with a real estate and mortgage background.  My career as a Mortgage Loan Officer equipped me with a deep understanding of credit risk assessment, process optimization, and rockstar customer service. Now, I'm channeling that expertise into the field of data analysis.
 ____________________________________________________________________________________
 ### View My Portfolio:
 
@@ -7,19 +7,19 @@ ________________________________________________________________________________
   - (Pardon the dust...under construction.  ETA for completion 7/31/24.)
   - An in-depth data analysis project aimed at discovering insights for the global e-commerce store Elist Electronics. This project includes sales trends, growth rates, loyalty program effectiveness, and refund rate analysis. Tools used include Excel, SQL (BigQuery), and Tableau for data processing and visualization.
 - Project 2
-  - (Coming soon. ETA for completion 7/31/24)
+  - (Coming soon. ETA for completion 7/31/24.)
 ____________________________________________________________________________________
 ### About Me:
-- Data analyst with 15 years of real estate / mortgage experience 
-- Team player with a can-do attitude 
+- Data analyst with 14 years of real estate and mortgage experience 
+- Team player with a can-do attitude, collaborating with accounting, operational, and secondary teams
 - Closed over 800 residential mortgage loans with an approximate value of $250M throughout career as a mortgage loan officer 
-- When I am not analyzing data or building dashboards, you can find my dogs and I hiking a trail
+- When I am not analyzing data or building dashboards, you can find my dogs and me hiking a trail
 ____________________________________________________________________________________
 ### Technologies and Tools (always eager to learn and expand):
-Excel | SQL | Tableau | GitHub
+Excel | SQL | BigQuery | Tableau | GitHub
 ____________________________________________________________________________________
 ### Let's Connect:
-I'm looking forward to connecting with fellow data enthusiasts, professionals in the analytics field,
+I'm looking forward to connecting with professionals in the analytics field
 and anyone who shares a passion for unlocking the potential of data. If you have insights to share,
 opportunities to explore, or simply want to connect, feel free to reach out. 
 
