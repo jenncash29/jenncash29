@@ -1,5 +1,5 @@
 ### Hello, World! 👋
-I'm Jennifer, a data analyst with a real estate and mortgage background.  My career as a Mortgage Loan Officer equipped me with a deep understanding of credit risk assessment, process optimization, and rockstar customer service. Now, I'm channeling that expertise into the field of data analysis.
+I'm Jennifer, a data analyst with a real estate and mortgage background.  My career as a senior mortgage loan officer equipped me with a deep understanding of credit risk assessment, process optimization, and rockstar customer service. Now, I'm channeling that expertise into the field of data analysis.
 ____________________________________________________________________________________
 ### View My Portfolio:
 
@@ -23,6 +23,5 @@ I'm looking forward to connecting with professionals in the analytics field
 and anyone who shares a passion for unlocking the potential of data. If you have insights to share,
 opportunities to explore, or simply want to connect, feel free to reach out. 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jenncash29/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/jenncash29/vizzes)  
-
+[<img src='https://github.com/jenncash29/jenncash29/blob/main/LinkedIn%20Icon.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/jenncash29/)
+[<img src='https://github.com/jenncash29/jenncash29/blob/main/Tableau%20Icon.svg' alt='Tableau' height='40'>](https://public.tableau.com/app/profile/jenncash29/vizzes) 
