@@ -4,7 +4,7 @@ ________________________________________________________________________________
 ### View My Portfolio:
 
 - [Elist Electronics Store Project](https://github.com/jenncash29/Elist-Electronics-Store-Project/tree/main)
-  - (Pardon the dust...under construction.  ETA for completion 7/31/24.)
+  - (Pardon the dust...under construction.  ETA for completion 7/6/24.)
   - An in-depth data analysis project aimed at discovering insights for the global e-commerce store Elist Electronics. This project includes sales trends, growth rates, loyalty program effectiveness, and refund rate analysis. Tools used include Excel, SQL (BigQuery), and Tableau for data processing and visualization.
 - Project 2
   - (Coming soon. ETA for completion 7/31/24.)
