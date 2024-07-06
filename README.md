@@ -10,7 +10,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________
 ### About Me:
 - Data analyst with 14 years of mortgage lending experience 
-- Team player with a can-do attitude, cross-collaborating with various teams
+- Team player with a can-do attitude, cross-collaborating across various teams
 - Closed over 800 residential mortgage loans with an approximate value of $250M throughout career as a mortgage loan officer 
 - When I am not analyzing data or building dashboards, you can find my dogs and me hiking a trail
 ____________________________________________________________________________________
