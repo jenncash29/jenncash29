@@ -1,5 +1,5 @@
 ### Hello, World! 👋
-I'm Jennifer, a data analyst with a real estate and mortgage background.  My career as a senior mortgage loan officer equipped me with a deep understanding of credit risk assessment, process optimization, and rockstar customer service. Now, I'm channeling that expertise into the field of data analysis.
+I'm Jennifer, a data analyst with a mortgage lending background.  My career as a senior mortgage loan officer equipped me with a deep understanding of credit risk assessment, process optimization, and rockstar customer service. Now, I'm channeling that expertise into the field of data analysis.
 ____________________________________________________________________________________
 ### View My Portfolio:
 
@@ -9,8 +9,8 @@ ________________________________________________________________________________
   - (Coming soon. ETA for completion 7/31/24.)
 ____________________________________________________________________________________
 ### About Me:
-- Data analyst with 14 years of real estate and mortgage experience 
-- Team player with a can-do attitude, collaborating with accounting, operational, and secondary teams
+- Data analyst with 14 years of mortgage lending experience 
+- Team player with a can-do attitude, cross-collaborating with various teams
 - Closed over 800 residential mortgage loans with an approximate value of $250M throughout career as a mortgage loan officer 
 - When I am not analyzing data or building dashboards, you can find my dogs and me hiking a trail
 ____________________________________________________________________________________
