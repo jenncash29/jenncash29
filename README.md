@@ -1,5 +1,5 @@
 ### Hello, World! 👋
-I'm Jennifer, a data analyst with a mortgage lending background.  My career as a senior mortgage loan officer equipped me with a deep understanding of credit risk assessment, process optimization, and rockstar customer service. Now, I'm channeling that expertise into the field of data analysis.
+I'm Jennifer, a data analyst and U.S. Military Veteran with a mortgage lending background.  My career as a senior mortgage loan officer equipped me with a deep understanding of credit risk assessment, process optimization, and rockstar customer service. Now, I'm channeling that expertise into the field of data analysis.
 ____________________________________________________________________________________
 ### View My Portfolio:
 
