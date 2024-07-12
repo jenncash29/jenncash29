@@ -3,7 +3,7 @@ I'm Jennifer, a data analyst with a mortgage lending background.  My career as a
 ____________________________________________________________________________________
 ### View My Portfolio:
 
-- [McFly Electronics Store Project](https://github.com/jenncash29/Elist-Electronics-Store-Project/tree/main)
+- [Enova Electronics Store Project](https://github.com/jenncash29/Elist-Electronics-Store-Project/tree/main)
   - An in-depth data analysis project aimed at discovering insights for the global e-commerce store Enova Electronics. This project includes sales trends, growth rates, loyalty program effectiveness, and refund rate analysis. Tools used include Excel, SQL (BigQuery), and Tableau for data processing and visualization.
 - Project 2
   - (Coming soon. ETA for completion 7/31/24.)
