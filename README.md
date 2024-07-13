@@ -15,7 +15,7 @@ ________________________________________________________________________________
 - When I am not analyzing data or building dashboards, you can find my dogs and me hiking a trail
 ____________________________________________________________________________________
 ### Technologies and Tools (always eager to learn and expand):
-Excel | SQL | BigQuery | Tableau | GitHub
+Excel | SQL | BigQuery | Tableau | Power BI | GitHub
 ____________________________________________________________________________________
 ### Let's Connect:
 I'm looking forward to connecting with professionals in the analytics field
