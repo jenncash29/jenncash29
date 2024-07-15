@@ -3,10 +3,10 @@ I'm Jennifer, a data analyst and U.S. Military Veteran with a mortgage lending b
 ____________________________________________________________________________________
 ### View My Portfolio:
 
-- [Enova Electronics Store Project](https://github.com/jenncash29/Elist-Electronics-Store-Project/tree/main)
+- [Enova Electronics Store](https://github.com/jenncash29/Elist-Electronics-Store-Project/tree/main)
   - An in-depth data analysis project aimed at discovering insights for the global e-commerce store Enova Electronics. This project includes sales trends, growth rates, loyalty program effectiveness, and refund rate analysis. Tools used include Excel, SQL (BigQuery), and Tableau for data processing and visualization.
-- Project 2
-  - (Coming soon. ETA for completion 7/31/24.)
+- Rhode Health
+  - (Pardon the dust...under construction. Coming soon. ETA for completion 7/31/24.)
 ____________________________________________________________________________________
 ### About Me:
 - Data analyst with 14 years of mortgage lending experience 
