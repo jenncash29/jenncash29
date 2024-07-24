@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 - [Enova Electronics Store](https://github.com/jenncash29/Elist-Electronics-Store-Project/tree/main)
   - An in-depth data analysis project aimed at discovering insights for the global e-commerce store Enova Electronics. This project includes sales trends, growth rates, loyalty program effectiveness, and refund rate analysis. Tools used include Excel for data exploration, SQL (BigQuery) for diving into deeper insights, and Tableau for visualization.
-- [Rhode Health](https://github.com/jenncash29/Rhode-Health-Project/tree/main)
+- [Rhode Health Insurance](https://github.com/jenncash29/Rhode-Health-Project/tree/main)
   - (Pardon the dust...under construction. ETA for completion 7/31/24.)
   - This project evaluates the effectiveness of various marketing campaigns for Rhode Health, a U.S. medical insurance provider. Signup rates, costs, and engagement metrics are analyzed to enhance future marketing efforts. The analysis involved Excel for data validation, Tableau for data exploration and visualization, and a PowerPoint presentation to stakeholders.
 ____________________________________________________________________________________
