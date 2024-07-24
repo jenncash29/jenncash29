@@ -12,8 +12,9 @@ ________________________________________________________________________________
 ### About Me:
 - Data analyst with 14 years of mortgage lending experience 
 - Team player with a can-do attitude, cross-collaborating across various teams
+- I am proficient in Excel, SQL, Tableau, and Power BI with advanced skills in data cleaning, visualization, and reporting to communicate trends and patterns, derive actionable insights, and improve operational efficiency
 - Closed over 800 residential mortgage loans with an approximate value of $250M throughout career as a mortgage loan officer 
-- When I am not analyzing data or building dashboards, you can find my dogs and me hiking a trail
+- When I am not analyzing data or building dashboards, you can find my dogs and me hiking a trail 🐶
 ____________________________________________________________________________________
 ### Technologies and Tools (always eager to learn and expand):
 Excel | SQL | BigQuery | Tableau | Power BI | GitHub
